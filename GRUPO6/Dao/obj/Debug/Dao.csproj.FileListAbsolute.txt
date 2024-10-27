@@ -1,0 +1,72 @@
+C:\Users\fx gaming\Desktop\GRUPO6\Dao\bin\Debug\Dao.dll
+C:\Users\fx gaming\Desktop\GRUPO6\Dao\bin\Debug\Dao.pdb
+C:\Users\fx gaming\Desktop\GRUPO6\Dao\bin\Debug\Entidades.dll
+C:\Users\fx gaming\Desktop\GRUPO6\Dao\bin\Debug\Entidades.pdb
+C:\Users\fx gaming\Desktop\GRUPO6\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+C:\Users\fx gaming\Desktop\GRUPO6\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\fx gaming\Desktop\GRUPO6\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\fx gaming\Desktop\GRUPO6\Dao\obj\Debug\Dao.dll
+C:\Users\fx gaming\Desktop\GRUPO6\Dao\obj\Debug\Dao.pdb
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas\GRUPO6\Dao\bin\Debug\Dao.dll
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas\GRUPO6\Dao\bin\Debug\Dao.pdb
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas\GRUPO6\Dao\bin\Debug\Entidades.dll
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas\GRUPO6\Dao\bin\Debug\Entidades.pdb
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas\GRUPO6\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas\GRUPO6\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas\GRUPO6\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas\GRUPO6\Dao\obj\Debug\Dao.dll
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas\GRUPO6\Dao\obj\Debug\Dao.pdb
+C:\Users\user\OneDrive\Escritorio\terminado\GRUPO6\Dao\bin\Debug\Dao.dll
+C:\Users\user\OneDrive\Escritorio\terminado\GRUPO6\Dao\bin\Debug\Dao.pdb
+C:\Users\user\OneDrive\Escritorio\terminado\GRUPO6\Dao\bin\Debug\Entidades.dll
+C:\Users\user\OneDrive\Escritorio\terminado\GRUPO6\Dao\bin\Debug\Entidades.pdb
+C:\Users\user\OneDrive\Escritorio\terminado\GRUPO6\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Escritorio\terminado\GRUPO6\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Escritorio\terminado\GRUPO6\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\user\OneDrive\Escritorio\terminado\GRUPO6\Dao\obj\Debug\Dao.dll
+C:\Users\user\OneDrive\Escritorio\terminado\GRUPO6\Dao\obj\Debug\Dao.pdb
+C:\Users\user\Documents\UTN tecnicatura en Programación\Programación 3\GRUPO6\Dao\bin\Debug\Dao.dll
+C:\Users\user\Documents\UTN tecnicatura en Programación\Programación 3\GRUPO6\Dao\bin\Debug\Dao.pdb
+C:\Users\user\Documents\UTN tecnicatura en Programación\Programación 3\GRUPO6\Dao\bin\Debug\Entidades.dll
+C:\Users\user\Documents\UTN tecnicatura en Programación\Programación 3\GRUPO6\Dao\bin\Debug\Entidades.pdb
+C:\Users\user\Documents\UTN tecnicatura en Programación\Programación 3\GRUPO6\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+C:\Users\user\Documents\UTN tecnicatura en Programación\Programación 3\GRUPO6\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\UTN tecnicatura en Programación\Programación 3\GRUPO6\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\user\Documents\UTN tecnicatura en Programación\Programación 3\GRUPO6\Dao\obj\Debug\Dao.dll
+C:\Users\user\Documents\UTN tecnicatura en Programación\Programación 3\GRUPO6\Dao\obj\Debug\Dao.pdb
+C:\Users\user\OneDrive\Escritorio\Nueva carpeta\GRUPO6\Dao\bin\Debug\Dao.dll
+C:\Users\user\OneDrive\Escritorio\Nueva carpeta\GRUPO6\Dao\bin\Debug\Dao.pdb
+C:\Users\user\OneDrive\Escritorio\Nueva carpeta\GRUPO6\Dao\bin\Debug\Entidades.dll
+C:\Users\user\OneDrive\Escritorio\Nueva carpeta\GRUPO6\Dao\bin\Debug\Entidades.pdb
+C:\Users\user\OneDrive\Escritorio\Nueva carpeta\GRUPO6\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Escritorio\Nueva carpeta\GRUPO6\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Escritorio\Nueva carpeta\GRUPO6\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\user\OneDrive\Escritorio\Nueva carpeta\GRUPO6\Dao\obj\Debug\Dao.dll
+C:\Users\user\OneDrive\Escritorio\Nueva carpeta\GRUPO6\Dao\obj\Debug\Dao.pdb
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas MALE y LAU\GRUPO6\Dao\bin\Debug\Dao.dll
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas MALE y LAU\GRUPO6\Dao\bin\Debug\Dao.pdb
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas MALE y LAU\GRUPO6\Dao\bin\Debug\Entidades.dll
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas MALE y LAU\GRUPO6\Dao\bin\Debug\Entidades.pdb
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas MALE y LAU\GRUPO6\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas MALE y LAU\GRUPO6\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas MALE y LAU\GRUPO6\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas MALE y LAU\GRUPO6\Dao\obj\Debug\Dao.dll
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\pruebas MALE y LAU\GRUPO6\Dao\obj\Debug\Dao.pdb
+C:\Users\JulioPro2020\Downloads\GRUPO6_version_prueba\GRUPO6\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+C:\Users\JulioPro2020\Downloads\GRUPO6_version_prueba\GRUPO6\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\JulioPro2020\Downloads\GRUPO6_version_prueba\GRUPO6\Dao\obj\Debug\Dao.dll
+C:\Users\JulioPro2020\Downloads\GRUPO6_version_prueba\GRUPO6\Dao\obj\Debug\Dao.pdb
+C:\Users\JulioPro2020\Downloads\GRUPO6_version_prueba\GRUPO6\Dao\bin\Debug\Dao.dll
+C:\Users\JulioPro2020\Downloads\GRUPO6_version_prueba\GRUPO6\Dao\bin\Debug\Dao.pdb
+C:\Users\JulioPro2020\Downloads\GRUPO6_version_prueba\GRUPO6\Dao\bin\Debug\Entidades.dll
+C:\Users\JulioPro2020\Downloads\GRUPO6_version_prueba\GRUPO6\Dao\bin\Debug\Entidades.pdb
+C:\Users\JulioPro2020\Downloads\GRUPO6_version_prueba\GRUPO6\Dao\obj\Debug\Dao.csproj.Up2Date
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\amigo adri 1\GRUPO6\Dao\bin\Debug\Dao.dll
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\amigo adri 1\GRUPO6\Dao\bin\Debug\Dao.pdb
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\amigo adri 1\GRUPO6\Dao\bin\Debug\Entidades.dll
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\amigo adri 1\GRUPO6\Dao\bin\Debug\Entidades.pdb
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\amigo adri 1\GRUPO6\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\amigo adri 1\GRUPO6\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\amigo adri 1\GRUPO6\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\amigo adri 1\GRUPO6\Dao\obj\Debug\Dao.dll
+C:\Users\Fran\Documents\FRAN\educacion\SEGUNDO AÑO\PRIMER CUATRI\PR3\amigo adri 1\GRUPO6\Dao\obj\Debug\Dao.pdb
